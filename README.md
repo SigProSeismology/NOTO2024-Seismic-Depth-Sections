@@ -1,6 +1,6 @@
 # High-Resolution Seismic Depth Sections of the 2024 Noto Peninsula Earthquake
 
-![Seismic Depth Section - L05](visualizations/L05.jpg)
+![Seismic Depth Section - L05](L05.jpg)
 
 
 ## Overview
