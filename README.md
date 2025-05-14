@@ -1,5 +1,8 @@
 # High-Resolution Seismic Depth Sections of the 2024 Noto Peninsula Earthquake
 
+![Seismic Depth Section - L05](visualizations/L05.jpg)
+
+
 ## Overview
 
 This repository presents high-resolution seismic depth sections of the rupture zone associated with the **Mw 7.6 Noto Peninsula earthquake**, which struck Japan on **January 1, 2024, at 07:10:22.5 UTC**. The earthquake caused intense ground shaking, triggered a tsunami, and was identified as a **reverse-fault rupture** consistent with a northwest–southeast-oriented compressional stress regime.
